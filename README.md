@@ -10,6 +10,7 @@ In this repository I have some certificates from online courses of different mat
 
 * From DataScienceAcademy I have:
   - Python fundamentos para Análise de Dados (Fundaments of python for Data Analysis).
+  - PowerBI para Data Science (PowerBI for Data Science).
 
 * From SoftBlue I have:
    - SQL Completo (Complete SQL).
